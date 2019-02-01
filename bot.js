@@ -4,7 +4,7 @@ const client = new Discord.Client();
 
 
 
-client.login('NTQwNzg0ODI5MzIzNjczNjE5.DzWRSQ.ux-gaejCzTJWWPgrLdieK3PUIhY'); 
+client.login('NTQwNDE4MzE2ODYzNDA2MTAx.DzWZFw.BEn42ODhaZZuvW0I1POXH4x26mI'); 
 
 
 
